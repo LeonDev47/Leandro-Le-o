@@ -1,3 +1,8 @@
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Leandro%20Leão%20Pereira&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
+
 # 👋 Olá, eu sou o Leandro Leão Pereira  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
@@ -45,12 +50,12 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e busco com
 ---
 
 ## 📫 Como me encontrar  
-- 🌍 [LinkedIn](https://www.linkedin.com/) *(adicione seu link aqui)*  
-- 📧 Email: *(adicione aqui seu e-mail profissional)*  
+- 🌍 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/leandro-le%C3%A3o-pereira-a45b02334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*  
+- 📧 Email: *(leondev47@gmail.com)*  
 
 ---
 
-✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada 🚀
-       
-   
-
+<!-- Rodapé animado -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=100&section=footer"/>
+</div>
