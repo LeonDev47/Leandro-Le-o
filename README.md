@@ -38,15 +38,6 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e busco com
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&theme=radical)  
-
-</div>
-
 ---
 
 ## 📫 Como me encontrar  
